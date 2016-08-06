@@ -6,6 +6,9 @@
   "contributors": [
     "Julius Senkus <julius.senkus@devbridge.com>"
   ],
+ "engines": {
+    "node": "5.11.1"
+  }
   "main": "gulpfile.js",
   "homepage": "https://www.devbridge.com/",
   "license": "MIT",
